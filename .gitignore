@@ -1,0 +1,21 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# renv
+renv/library/
+renv/local/
+renv/lock/
+renv/python/
+renv/staging/
+
+# Credentials — never commit these
+.Renviron
+*.json
+*service_account*
+*credentials*
+
+# OS
+.DS_Store

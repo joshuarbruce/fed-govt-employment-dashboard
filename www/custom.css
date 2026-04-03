@@ -1,0 +1,65 @@
+/* ── Typography ───────────────────────────────────────────────────────────── */
+body {
+  font-family: "Inter", "Helvetica Neue", Arial, sans-serif;
+  color: #282622;
+  background-color: #fefefe;
+}
+
+/* ── Navbar ───────────────────────────────────────────────────────────────── */
+.navbar {
+  border-bottom: 2px solid #1397ab;
+  box-shadow: none !important;
+}
+
+/* ── Cards ────────────────────────────────────────────────────────────────── */
+.card {
+  border: 1px solid #e5e7eb;
+  border-radius: 6px;
+  box-shadow: none !important;
+}
+
+.card-header {
+  background: #fefefe;
+  border-bottom: 1px solid #e5e7eb;
+  font-weight: 600;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #282622;
+}
+
+/* ── Value boxes ──────────────────────────────────────────────────────────── */
+.bslib-value-box {
+  border-radius: 6px !important;
+  border: none !important;
+}
+
+.bslib-value-box .value-box-value {
+  font-size: 1.75rem !important;
+  font-weight: 700 !important;
+}
+
+.bslib-value-box .value-box-title {
+  font-size: 0.75rem !important;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  opacity: 0.85;
+}
+
+/* ── Sidebar ──────────────────────────────────────────────────────────────── */
+.bslib-sidebar-layout > .sidebar {
+  background: #f9fafb !important;
+  border-right: 1px solid #e5e7eb !important;
+}
+
+/* ── Inputs ───────────────────────────────────────────────────────────────── */
+.selectize-input, .form-control {
+  border-radius: 4px !important;
+  border-color: #d1d5db !important;
+  font-size: 0.875rem !important;
+}
+
+.selectize-input.focus {
+  border-color: #1397ab !important;
+  box-shadow: 0 0 0 2px rgba(19,151,171,0.15) !important;
+}
