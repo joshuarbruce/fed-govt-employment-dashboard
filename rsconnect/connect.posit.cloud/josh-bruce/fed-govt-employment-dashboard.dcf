@@ -1,0 +1,10 @@
+name: fed-govt-employment-dashboard
+title:
+username: josh-bruce
+account: josh-bruce
+server: connect.posit.cloud
+hostUrl: https://api.connect.posit.cloud/v1
+appId: 019d54ff-a13f-a742-aaad-7a6570e54219
+bundleId:
+url:
+version: 1
