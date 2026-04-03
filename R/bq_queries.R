@@ -13,6 +13,7 @@ bq_connect <- function() {
   if (nchar(sa_key) > 0) {
     tmp <- tempfile(fileext = ".json")
     writeLines(sa_key, tmp)
+    on.exit(unlink(tmp), add = TRUE)
     bq_auth(path = tmp)
   } else {
     bq_auth()  # falls back to ADC
