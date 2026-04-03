@@ -2,7 +2,7 @@
 
 An interactive dashboard for exploring changes in the U.S. federal civilian workforce from 2005 to the present. Built as a portfolio project to make a large public dataset more accessible and visually useful.
 
-**[View the live dashboard](https://connect.posit.cloud/josh-bruce/content/019d54ff-a13f-a742-aaad-7a6570e54219)**
+**[View the live dashboard](https://josh-bruce-fed-govt-employment-dashboard.share.connect.posit.cloud)**
 
 ---
 
