@@ -71,3 +71,11 @@ shiny::runApp()
 ```
 
 The app expects the three summary BigQuery tables described above. SQL scripts to create them from the raw OPM data are in the `sql/` directory.
+
+---
+
+## License and attribution
+
+**Data**: Employment records are published by the U.S. Office of Personnel Management and are in the public domain. Source: [data.opm.gov](https://data.opm.gov/explore-data/data/data-downloads)
+
+**Code**: Copyright &copy; Joshua Bruce. All rights reserved.
